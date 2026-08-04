@@ -1,6 +1,7 @@
 # Guilherme Macena | Desenvolvedor FullStack
 
-Desenvolvedor fullstack e atuo no desenvolvo sistemas com uma visão completa do processo, desde a concepção até a implementação.
+Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão completa do processo, desde a concepção da solução até a implementação por completo.
+
 
 ---
 
