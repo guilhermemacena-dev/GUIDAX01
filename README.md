@@ -1,7 +1,7 @@
+
 # Guilherme Macena | Desenvolvedor FullStack
 
-Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão completa do processo, desde a concepção da solução até a implementação por completo.
-
+Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão ampla do processo. Busco compreender a lógica do negócio, suas necessidades e regras antes de definir a solução, entendendo como cada parte se relaciona para construir sistemas coerentes e funcionais. Minha atuação vai desde a concepção e estruturação da solução até sua implementação, considerando não apenas o código, mas o propósito e o funcionamento do sistema como um todo.
 
 ---
 
@@ -17,6 +17,14 @@ Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão com
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## Linguagens mais utilizadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemacena-dev&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais utilizadas" />
+</div>
 
 ---
 
