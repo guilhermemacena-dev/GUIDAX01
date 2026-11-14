@@ -23,7 +23,7 @@ Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão amp
 ## Estatísticas do GitHub
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="12">
     <tr>
       <td align="center" valign="middle">
         <img
