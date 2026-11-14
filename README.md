@@ -20,6 +20,27 @@ Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão amp
 
 ---
 
+## Estatísticas do GitHub
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=guilhermemacena-dev&show_icons=true&theme=tokyonight"
+          alt="Estatísticas do GitHub"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemacena-dev&layout=compact&theme=tokyonight&langs_count=8"
+          alt="Linguagens mais utilizadas"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Linguagens mais utilizadas
 
 <div align="center">
