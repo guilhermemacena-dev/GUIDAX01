@@ -23,25 +23,21 @@ Desenvolvedor Full Stack, atuo no desenvolvimento de sistemas com uma visão amp
 ## Estatísticas do GitHub
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" valign="middle" style="padding-right: 15px;">
-        <a href="https://github.com/guilhermemacena-dev">
-          <img
-            src="https://github-stats-extended.vercel.app/api/?username=guilhermemacena-dev&show_icons=true&theme=tokyonight&hide_border=false&border_color=565F89&border_radius=10"
-            height="200"
-            alt="Estatísticas do GitHub"
-          />
-        </a>
+      <td width="55%" align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api/?username=guilhermemacena-dev&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="Estatísticas do GitHub"
+          width="450"
+        />
       </td>
-      <td align="center" valign="middle" style="padding-left: 15px;">
-        <a href="https://github.com/guilhermemacena-dev">
-          <img
-            src="https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermemacena-dev&layout=normal&theme=tokyonight&langs_count=8&hide_border=false&border_color=565F89&border_radius=10"
-            height="200"
-            alt="Linguagens mais utilizadas"
-          />
-        </a>
+      <td width="45%" align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermemacena-dev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=350"
+          alt="Linguagens mais utilizadas"
+          width="350"
+        />
       </td>
     </tr>
   </table>
